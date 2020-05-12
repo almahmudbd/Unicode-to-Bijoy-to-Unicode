@@ -1,0 +1,10 @@
+img{
+display:block;
+margin: 5px auto;
+max-width:100%;
+}
+.ui-header{
+background-color: #3498db!important;
+color: #FFF!important;
+text-shadow: none!important;
+}
